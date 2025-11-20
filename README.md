@@ -25,7 +25,7 @@ Tumor shape plays a critical role in influencing both growth and metastasis. We 
 
 <code>GBM_dataset.RData</code> : Contains the clinical variables.
 
-<code>gbm_tumor_locs.txt</code> : contains the xyz-coordinates of tumor centers and corresponding cortical lobes.
+<code>gbm_tumor_locs.txt</code> : Contains the xyz-coordinates of tumor centers and corresponding cortical lobes.
 
 # Application to LGG
 ## "./LGG" folder
