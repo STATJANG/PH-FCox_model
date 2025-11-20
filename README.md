@@ -1,2 +1,6 @@
 # PH-FCox_model
 Tumor shape plays a critical role in influencing both growth and metastasis. We introduce a novel topological feature obtained using persistent homology, to characterize tumor shape with a focus on its relationship to time-to-event data. These features, which are invariant to scale-preserving transformations, effectively capture diverse tumor shape patterns. To utilize these features in survival analysis, we adopt a functional Cox regression model that takes the shape features represented in a functional space as predictors. Furthermore, interactions between shape features and tumor location are incorporated to reflect location-specific effects. This approach enables interpretable analysis of the association between tumor shape characteristics and survival risks. Two case studies were conducted using radiomic images of high-grade and low-grade gliomas. The findings suggest that the topological features serve as strong predictors of survival prognosis, remaining significant after adjusting for clinical variables, and contribute further clinically relevant understanding.
+
+## Analysis of Glioblastoma (GBM) patients
+## Analysis of Low-grade glioma (LGG) patients
+## Simulation
